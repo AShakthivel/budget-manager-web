@@ -2,7 +2,6 @@
     "tabWidth": 4,
     "useTabs": false,
     "bracketSameLine": true,
-    "editorconfig": true,
     "singleAttributePerLine": true,
     "trailingComma": "none"
 }
